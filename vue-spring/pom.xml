@@ -61,8 +61,8 @@
                             <outputDirectory>${basedir}/target/classes/static/</outputDirectory>
                             <resources>
                                 <resource>
-<!--                                    <directory>${basedir}/../vue-ui-spring/build</directory>-->
-                                    <directory>${basedir}/../vue-js-crud-example-master/dist</directory>
+                                    <directory>${basedir}/../vue-ui-spring/build</directory>
+<!--                                    <directory>${basedir}/../vue-js-crud-example-master/dist</directory>-->
 
                                 </resource>
                             </resources>
